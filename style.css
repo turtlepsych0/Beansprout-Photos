@@ -43,4 +43,11 @@
       margin: 40px 20px;
       text-align: center;
     }
+
+/* IMAGES */
+.img {
+  width: 300px;
+  height: auto; /* keeps aspect ratio */
+}
+
     
