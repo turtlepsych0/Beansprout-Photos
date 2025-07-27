@@ -44,10 +44,16 @@
       text-align: center;
     }
 
-/* IMAGES */
-.pics {
-  width: 300px;
-  height: auto; /* keeps aspect ratio */
-}
+    /* IMAGES */
+    .pics {
+      width: 300px;
+      height: auto; /* keeps aspect ratio */
+      margin: 10px;
+    }
+
+    /* CAPTIONS */
+    .caption {
+        margin-top: 5px;
+    }    
 
     
